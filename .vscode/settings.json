@@ -5,5 +5,13 @@
         "адреси",
         "пінгування",
         "Функція"
+    ],
+    "cSpell.enableFiletypes": [
+        "perl",
+        "shellscript",
+        "sql",
+        "ssh_config",
+        "xml",
+        "xsl"
     ]
 }
